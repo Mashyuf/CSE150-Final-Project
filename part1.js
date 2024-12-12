@@ -47,4 +47,4 @@ function ADFA(dfa, str) {
     }
 }
 
-console.log(ADFA('a1bF bT', '1'));
+console.log(ADFA('a1bF b0a1bT', '1110'));
