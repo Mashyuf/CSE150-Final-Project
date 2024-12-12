@@ -23,7 +23,6 @@ function DFABuilder(str) {
         }
     }
 
-    console.log(map);
     return map;
 }
 
